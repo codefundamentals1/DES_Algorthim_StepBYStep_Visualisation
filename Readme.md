@@ -16,9 +16,15 @@ The **DES Encryption Algorithm Visualization** is an interactive web application
 The visualization is highly intuitive, making it suitable for students, educators, and anyone interested in learning how DES operates.
 
 ---
+## Watch live demo
+- Deployment https://des-algorthim-step-by-step-visualisation.vercel.app/
 
-
+## Encryption
 ![alt text](ScreenRecording2024-11-22230813-ezgif.com-video-to-gif-converter.gif)
+
+
+## Decryption
+![alt text](ScreenRecording2024-11-22230813-ezgif.com-video-to-gif-converter(1).gif)
 
 ## Features
 
