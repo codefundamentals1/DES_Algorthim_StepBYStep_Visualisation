@@ -17,11 +17,8 @@ The visualization is highly intuitive, making it suitable for students, educator
 
 ---
 
-<video controls>
-    <source src="Screen Recording 2024-11-22 230813.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
 
+![alt text](ScreenRecording2024-11-22230813-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
